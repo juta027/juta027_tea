@@ -1,1 +1,9 @@
 # juta027_tea
+# https://tea.xyz/what-is-this-file
+---
+version: 1.0.0
+codeOwners:
+  - '0xD0504509E3DFA6d8b3cdf8A7a2aec079e32d9dDb'
+  - '0xB08c7052bEA2fEf31C6EcB97621587839c78353E'
+  - '0x0D8345797D47fDe91CA47799A3Bd976561Ac9940'
+quorum: 1
